@@ -1,4 +1,3 @@
-#!pip install pygame
 import pygame
 import sys
 import random
